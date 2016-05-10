@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./kalendariaveter00giovgoog_0354.png"; bbox 0 0 1371 1813; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 754 343 1168 358">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 754 343 1168 358">
+     <span class='ocr_line' id='line_1_1' title="bbox 754 343 1168 358; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 754 343 1127 358; x_wconf 71' lang='lat' dir='ltr'>AFINEISINCURREDIFTHISBOOKIS</span> <span class='ocrx_word' id='word_1_2' title='bbox 1167 351 1168 355; x_wconf 39' lang='grc' dir='ltr'><strong>π</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 754 367 1127 381">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 754 367 1127 381">
+     <span class='ocr_line' id='line_1_2' title="bbox 754 367 1127 381; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 754 367 795 381; x_wconf 87' lang='lat' dir='ltr'>NOT</span> <span class='ocrx_word' id='word_1_4' title='bbox 806 367 909 381; x_wconf 80' lang='lat' dir='ltr'>RETURNED</span> <span class='ocrx_word' id='word_1_5' title='bbox 920 367 946 381; x_wconf 89' lang='lat' dir='ltr'>To</span> <span class='ocrx_word' id='word_1_6' title='bbox 958 367 998 381; x_wconf 82' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_7' title='bbox 1009 367 1088 381; x_wconf 57' lang='lat' dir='ltr'>1³an</span> <span class='ocrx_word' id='word_1_8' title='bbox 1099 367 1127 381; x_wconf 85' lang='grc' dir='ltr'>ΟΝ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 715 389 1127 405">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 715 389 1127 405">
+     <span class='ocr_line' id='line_1_3' title="bbox 715 389 1127 405; baseline -0.005 0"><span class='ocrx_word' id='word_1_9' title='bbox 715 401 717 405; x_wconf 70' lang='grc'>,</span> <span class='ocrx_word' id='word_1_10' title='bbox 754 390 779 404; x_wconf 84' lang='lat' dir='ltr'>OR</span> <span class='ocrx_word' id='word_1_11' title='bbox 790 390 860 404; x_wconf 81' lang='lat' dir='ltr'>BEFORE</span> <span class='ocrx_word' id='word_1_12' title='bbox 871 390 910 403; x_wconf 82' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_13' title='bbox 921 390 968 404; x_wconf 74' lang='lat' dir='ltr'>LAST</span> <span class='ocrx_word' id='word_1_14' title='bbox 978 390 1030 404; x_wconf 76' lang='lat' dir='ltr'>DATE</span> <span class='ocrx_word' id='word_1_15' title='bbox 1040 389 1127 404; x_wconf 75' lang='lat' dir='ltr'>STAM&#39;PED</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 732 316 1155 1053">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 732 316 1155 1053">
+     <span class='ocr_line' id='line_1_4' title="bbox 732 316 1155 1053; baseline 0 760"><span class='ocrx_word' id='word_1_16' title='bbox 732 316 1155 1053; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./kalendariaveter00giovgoog_0355.png"; bbox 0 0 1371 1813; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 132 88 196 99">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 132 88 196 99">
+     <span class='ocr_line' id='line_1_1' title="bbox 132 88 196 99; baseline 0.017 -1"><span class='ocrx_word' id='word_1_1' title='bbox 132 88 196 99; x_wconf 70' lang='lat' dir='ltr'>-flmu</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 131 100 375 125">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 131 100 375 125">
+     <span class='ocr_line' id='line_1_2' title="bbox 131 100 375 125; baseline 0.01 -13"><span class='ocrx_word' id='word_1_2' title='bbox 131 100 375 125; x_wconf 50' lang='lat' dir='ltr'>:u--hn-un--flg&#39;u</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 144 179 385 199">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 144 179 385 199">
+     <span class='ocr_line' id='line_1_3' title="bbox 144 179 385 199; baseline 0 -1"><span class='ocrx_word' id='word_1_3' title='bbox 144 179 385 199; x_wconf 68' lang='lat'><strong>32044082250770</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1371 1813">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1371 1813">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1371 1813; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 0 0 1371 1813; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
